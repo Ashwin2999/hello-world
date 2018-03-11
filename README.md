@@ -1,2 +1,2 @@
 # hello-world
-first trail in github
+first trail on github
